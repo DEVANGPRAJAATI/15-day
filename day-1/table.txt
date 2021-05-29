@@ -1,0 +1,30 @@
+<html>
+<body>
+<table width ="100px" border ="1px">
+<tr>
+<td> S.N</td>
+<td> NAME</td>
+<td> STATE</td>
+<td> CITY</td>
+</tr>
+<tr>
+<td> 1</td>
+<td> Deep</td>
+<td> gujarat</td>
+<td> Vadodara</td>
+</tr>
+<tr>
+<td> 2</td>
+<td> Prem</td>
+<td> rajastran</td>
+<td> Udaipur</td>
+</tr>
+<tr>
+<td> 3</td>
+<td> Sank</td>
+<td> maharastra</td>
+<td> Mumbai</td>
+</tr>
+</table>
+</body>
+</html>
